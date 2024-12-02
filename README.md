@@ -1,20 +1,28 @@
 # 👩🏻‍💻 Jessica
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Hello+World!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Hello+World!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    </a>
+  </div>
+ <div align="center">
+    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d1d639be-a0da-4514-97bb-c99cc8d38786/dgo6rbh-1cbc5113-7fe3-4338-ba5f-33a9f2f38e18.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2QxZDYzOWJlLWEwZGEtNDUxNC05N2JiLWM5OWNjOGQzODc4NlwvZGdvNnJiaC0xY2JjNTExMy03ZmUzLTQzMzgtYmE1Zi0zM2E5ZjJmMzhlMTguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0._Pj-YwXKfxXmIBct6NjBdXmXGSx3VQuqkE57euktHYw" 
+         alt="GIF animado" 
+         style="width: 150px; border-radius: 8px;" />
+  </div>
 </div>
 
-Bem-vindos ao meu GitHub! 
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div>
+    <p>Bem-vindos ao meu GitHub!</p>
+    <p>Eu sou a Jessica, mas podem me chamar de Jess. Sou uma desenvolvedora de São Paulo, Brasil. 🌎✨</p>
+      <p>🎮 Jogo desde a época do PS2 e agora estou criando meus próprios jogos.</p>
+      <p>💻 Tenho uma curiosidade imensa e estou sempre em busca de aprender algo novo!</p>
+  </div>
+</div>
+<br>
 
-Eu sou a Jessica, mas podem me chamar de Jess. Sou uma desenvolvedora de São Paulo, Brasil. 🌎✨
-
-
-🎮 Jogo desde a época do PS2 e agora estou criando meus próprios jogos.
-
-💻 Tenho uma curiosidade imensa e estou sempre em busca de aprender algo novo!
-
----
+### 🌐  Minhas Redes e Projetos
 <div align="left">
     <a href="https://www.linkedin.com/in/devjessicarodrigues/" target="_blank" style="text-decoration: none;">
         <img 
@@ -24,14 +32,6 @@ Eu sou a Jessica, mas podem me chamar de Jess. Sou uma desenvolvedora de São Pa
             style="border-radius: 25px; padding: 5px 15px; max-width: 200px;"
         />
     </a>
-  <a href="mailto:devjessicarodrigues@gmail.com" target="_blank" style="text-decoration: none;">
-    <img 
-        src="https://img.shields.io/badge/Entre%20em%20contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" 
-        alt="Gmail" 
-        title="Enviar e-mail para devjessicarodrigues@gmail.com"
-        style="border-radius: 25px; padding: 5px 15px; max-width: 200px;"
-    />
-  </a>
     <a href="https://itsxjazz.itch.io/" target="_blank" style="text-decoration: none;">
     <img 
         src="https://img.shields.io/badge/Jogue%20os%20meus%20jogos-FF3366?style=for-the-badge&logo=itch.io&logoColor=white" 
@@ -41,8 +41,20 @@ Eu sou a Jessica, mas podem me chamar de Jess. Sou uma desenvolvedora de São Pa
     />
 </a>
 </div>
+<br>
 
----
+### ✉️ Entre em contato
+
+<div align="left">
+  <a href="mailto:devjessicarodrigues@gmail.com" target="_blank" style="text-decoration: none;">
+    <img 
+        src="https://img.shields.io/badge/Envie%20me%20um%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" 
+        alt="Gmail" 
+        title="Enviar e-mail para devjessicarodrigues@gmail.com"
+        style="border-radius: 25px; padding: 5px 15px; max-width: 200px;"
+    />
+</div>
+<br>
 
 ### 🤖 Linguagens e Tecnologias
 <img 
