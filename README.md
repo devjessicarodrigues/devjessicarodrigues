@@ -28,7 +28,7 @@
         <img 
             src="https://img.shields.io/badge/Jessica%20Rodrigues-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
             alt="LinkedIn" 
-            title="Connect with me on LinkedIn"
+            title="Conecte-se comigo no LinkedIn"
             style="border-radius: 25px; padding: 5px 15px; max-width: 200px;"
         />
     </a>
@@ -36,7 +36,7 @@
     <img 
         src="https://img.shields.io/badge/Jogue%20os%20meus%20jogos-FF3366?style=for-the-badge&logo=itch.io&logoColor=white" 
         alt="itch.io" 
-        title="Check out my games on itch.io"
+        title="Veja meus games no itch.io"
         style="border-radius: 25px; padding: 5px 15px; max-width: 200px;"
     />
 </a>
