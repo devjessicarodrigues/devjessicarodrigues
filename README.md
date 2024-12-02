@@ -43,7 +43,7 @@
 </div>
 <br>
 
-### ✉️ Entre em contato
+### ✉️ Entre em Contato
 
 <div align="left">
   <a href="mailto:devjessicarodrigues@gmail.com" target="_blank" style="text-decoration: none;">
