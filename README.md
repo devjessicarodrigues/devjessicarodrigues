@@ -30,7 +30,7 @@
             style="border-radius: 25px; padding: 5px 15px; max-width: 200px;"
         />
     </a>
-    <a href="https://chronoshyperion.itch.io/" target="_blank" style="text-decoration: none;">
+    <a href="https://itsxjazz.itch.io/" target="_blank" style="text-decoration: none;">
     <img 
         src="https://img.shields.io/badge/Jogue%20os%20meus%20jogos-FF3366?style=for-the-badge&logo=itch.io&logoColor=white" 
         alt="itch.io" 
