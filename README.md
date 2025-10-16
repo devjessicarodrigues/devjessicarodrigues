@@ -15,7 +15,6 @@
 <div style="display: flex; align-items: center; gap: 20px;">
   <div>
     <p>Bem-vindos ao meu GitHub!</p>
-    <p>Eu sou a Jessica, mas podem me chamar de Jess. Sou uma desenvolvedora de São Paulo, Brasil. 🌎✨</p>
   </div>
 </div>
 <br>
@@ -57,14 +56,6 @@
 ### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
     alt="C#"
     title="C#" 
     width="30px" 
@@ -104,14 +95,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
 <br/>
 <br/>
 
@@ -139,4 +122,20 @@
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjessicarodrigues&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+  */ <img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
 </p> -->
