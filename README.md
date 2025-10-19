@@ -1,5 +1,3 @@
-<h1 align="center">Jessica</h1>
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A06BFF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Hello+World!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
@@ -15,22 +13,16 @@
 
 ---
 
-### 🌐 Minhas Redes e Projetos
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/devjessicarodrigues/" target="_blank">
-    <img src="https://img.shields.io/badge/Jessica%20Rodrigues-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://itsxjazz.itch.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Jogue%20os%20meus%20jogos-FF3366?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" />
-  </a>
-</p>
-
----
 
 ### ✉️ Entre em Contato
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/devjessicarodrigues/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://itsxjazz.itch.io/" target="_blank">
+    <img src="https://img.shields.io/badge/itch.io-FF3366?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" />
+  </a>
   <a href="mailto:devjessicarodrigues@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Envie%20um%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
